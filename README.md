@@ -9,9 +9,9 @@
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KatOli4ka-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KatOli4ka) [![Gmail Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@Mail&logoColor=FF8C00)](mailto:katoli4ka87@mail.ru)
 
-### 💻 Пройденные курсы:
+### 💻 Образование:
 
-| Курсы                                                           | Дата              |
+| Университет                                                     | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | sky.pro/Java-разработчик                                        | 10/2022 - 06/2023 |
 | skillbox.ru/Java-разработчик                                    | 08/2023 - xx/2023 |
