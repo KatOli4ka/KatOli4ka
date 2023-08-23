@@ -4,7 +4,7 @@
 
 ---
 
-Я начинающий Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с университета SkyEng, где я успешно прошла интенсив. После интенсива был промежуток в пару месяцев, где я пробовала себя во многих направлениях, пробовала изучать язык PHP, но больше всего меня зацепила веб разработка! С августа 2023 года я начала изучать веб разработку на курсах Skillbox самостоятельно. Параллельно, чтобы не терять время зря, я ищу любую работу, чтобы закрепить свои знания и быть первоклассным разработчиком!
+Я Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с университета SkyEng, где я успешно прошла интенсив. После интенсива был промежуток в пару месяцев, где я пробовала себя во многих направлениях, пробовала изучать язык PHP, но больше всего меня зацепила веб разработка! С августа 2023 года я начала изучать веб разработку в Skillbox самостоятельно. Параллельно, чтобы не терять время зря, я ищу интересные проекты, чтобы закрепить свои знания и быть первоклассным разработчиком!
 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KatOli4ka-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KatOli4ka) [![Gmail Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@Mail&logoColor=FF8C00)](mailto:katoli4ka87@mail.ru)
