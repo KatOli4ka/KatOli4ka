@@ -1,6 +1,6 @@
 <h1 align="center"> Привет, я <a href="https://daniilshat.ru/" target="_blank">Катя </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">  Тестировщик ПО/Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+<h3 align="center">  Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 
